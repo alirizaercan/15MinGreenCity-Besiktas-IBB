@@ -1,0 +1,4 @@
+2025-03-29 17:23:10,405 - INFO - Ye\u015fil alan analizi ba\u015flat\u0131l\u0131yor
+2025-03-29 17:23:12,131 - ERROR - Map creation failed: PathCollection.set() got an unexpected keyword argument 'size'
+2025-03-29 17:23:45,287 - ERROR - Report generation failed: 'latin-1' codec can't encode character '\u015f' in position 174298: ordinal not in range(256)
+2025-03-29 17:23:45,290 - INFO - Analiz süreci tamamland\u0131

@@ -1,0 +1,4 @@
+2025-03-29 15:11:54,995 - ERROR - data/processed/besiktas_green_areas.geojson yüklenirken hata: data/processed/besiktas_green_areas.geojson: No such file or directory
+2025-03-29 15:11:55,000 - CRITICAL - Kritik hata: data/processed/besiktas_green_areas.geojson: No such file or directory
+2025-03-29 15:13:02,832 - ERROR - data/processed/besiktas_green_area_coordinates.geojson yüklenirken hata: data/processed/besiktas_green_area_coordinates.geojson: No such file or directory
+2025-03-29 15:13:02,832 - CRITICAL - Kritik hata: data/processed/besiktas_green_area_coordinates.geojson: No such file or directory

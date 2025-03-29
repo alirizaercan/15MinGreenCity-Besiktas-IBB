@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "besiktas_micromobility",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Park_Alani": "Ortaköy", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.027096, "Y": 41.048501, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.027095638300001, 41.0485010875 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Yıldız Parkı İSPARK", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.016228, "Y": 41.044672, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.016228486100001, 41.044672466900003 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Zübeyde Hanım Mesleki ve Teknik Anadolu Lisesi Önü", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.0259, "Y": 41.050149, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.025899972200001, 41.050148624099997 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Beşiktaş İlçesi, Ihlamurdere Caddesi - 1", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.003591, "Y": 41.043569, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.0035907898, 41.0435687899 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Beşiktaş İlçesi, Ihlamurdere Caddesi - 3", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.003998, "Y": 41.043173, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.0039982262, 41.043173001200003 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Beşiktaş İlçesi, Ihlamurdere Caddesi - 2", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.004158, "Y": 41.043008, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.004158157799999, 41.043007507900001 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Merdiven Çıkışı", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.00998, "Y": 41.055482, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.009979723200001, 41.055482402099997 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Beşiktaş Vapur İskelesi", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.007149, "Y": 41.041224, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.007148525800002, 41.041223967299999 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Şairler Sofrası Parkı Önü", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.00036, "Y": 41.042292, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.000360401, 41.042292131300002 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Hasfırın Caddesi İett ve Büfe Yakını", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.006696, "Y": 41.04286, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.006696242899999, 41.042859530699999 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Asansör Yakını", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.009878, "Y": 41.054582, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.009877768599999, 41.05458184 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Eski Yıldız Caddesi Bahçeşehir Koleji Önü", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.008029, "Y": 41.042769, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.008029243199999, 41.042768774300001 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Deniz Müzesi", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.005209, "Y": 41.041649, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.005209171699999, 41.041649133500002 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Arnavutköy İskele Yakını", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.042108, "Y": 41.066434, "Park_Tipi": "Mikromobilite Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.042107833900001, 41.066434000699999 ] } },
+{ "type": "Feature", "properties": { "Park_Alani": "Boğaziçi Üniversitesi Otobüs Durağı Arkası", "Bolge": "Avrupa", "Ilce": "BEŞİKTAŞ", "X": 29.050699, "Y": 41.079937, "Park_Tipi": "Bisiklet Park Alanı" }, "geometry": { "type": "Point", "coordinates": [ 29.050699381200001, 41.079936576 ] } }
+]
+}

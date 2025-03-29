@@ -1,0 +1,116 @@
+2025-03-29 17:41:24,380 - INFO - Ye\u015fil alan analizi ba\u015flat\u0131l\u0131yor
+2025-03-29 17:41:31,668 - ERROR - Map creation error: got an unexpected keyword argument 'quality'
+2025-03-29 17:42:19,908 - ERROR - PDF report generation error: 'latin-1' codec can't encode character '\u015f' in position 202483: ordinal not in range(256)
+2025-03-29 17:42:19,912 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 17:48:56,402 - INFO - Ye\u015fil alan analizi ba\u015flat\u0131l\u0131yor
+2025-03-29 17:49:04,482 - ERROR - Map creation error: got an unexpected keyword argument 'quality'
+2025-03-29 17:49:50,163 - ERROR - PDF report generation error: 'latin-1' codec can't encode character '\u015f' in position 202483: ordinal not in range(256)
+2025-03-29 17:49:50,167 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 17:53:01,311 - INFO - Ye\u015fil alan analizi ba\u015flat\u0131l\u0131yor
+2025-03-29 17:53:08,849 - ERROR - Map creation error: got an unexpected keyword argument 'quality'
+2025-03-29 17:53:53,391 - ERROR - PDF report generation error: 'latin-1' codec can't encode character '\u015f' in position 202483: ordinal not in range(256)
+2025-03-29 17:53:53,395 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 17:56:03,348 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 17:56:03,349 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 17:57:08,418 - ERROR - PDF olu\u015fturma hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 7612438: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 173, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 7612438: ordinal not in range(256)
+2025-03-29 17:57:08,427 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 18:01:13,162 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 18:01:13,162 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 18:01:24,477 - ERROR - PDF TEST hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 28190: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 146, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 28190: ordinal not in range(256)
+2025-03-29 18:01:24,479 - ERROR - TEST PDF bile olu\u015fturulamad\u0131!
+2025-03-29 18:01:24,604 - ERROR - PDF TEST hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 28190: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 146, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 28190: ordinal not in range(256)
+2025-03-29 18:01:24,609 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 18:05:07,611 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 18:05:07,611 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 18:05:19,800 - ERROR - PDF olu\u015fturma hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 27626: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 145, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 27626: ordinal not in range(256)
+2025-03-29 18:05:19,802 - ERROR - TEST PDF bile olu\u015fturulamad\u0131!
+2025-03-29 18:05:19,804 - INFO - Basit PDF testi ba\u015far\u0131l\u0131
+2025-03-29 18:05:19,930 - ERROR - PDF olu\u015fturma hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 27626: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 145, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 27626: ordinal not in range(256)
+2025-03-29 18:05:19,933 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 18:38:32,465 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 18:38:32,466 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 18:38:49,884 - ERROR - PDF olu\u015fturma hatas\u0131: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 141, in generate_pdf_report
+    pdf.image(os.path.join(project_root, 'assets', 'logo.png'), x=70, y=100, w=70)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 150, in wrapper
+    return fn(self, *args, **kwargs)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 971, in image
+    info=self._parsepng(name)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1772, in _parsepng
+    f=open(name,'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+2025-03-29 18:38:49,892 - ERROR - TEST PDF bile olu\u015fturulamad\u0131!
+2025-03-29 18:38:49,894 - INFO - Basit PDF testi ba\u015far\u0131l\u0131
+2025-03-29 18:38:49,900 - ERROR - PDF olu\u015fturma hatas\u0131: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 141, in generate_pdf_report
+    pdf.image(os.path.join(project_root, 'assets', 'logo.png'), x=70, y=100, w=70)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 150, in wrapper
+    return fn(self, *args, **kwargs)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 971, in image
+    info=self._parsepng(name)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1772, in _parsepng
+    f=open(name,'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+2025-03-29 18:38:49,903 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 18:45:29,596 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 18:45:29,597 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 18:46:56,198 - ERROR - PDF olu\u015fturma hatas\u0131: 'latin-1' codec can't encode character '\u015f' in position 7616077: ordinal not in range(256)
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 228, in generate_pdf_report
+    pdf.output(report_path)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1084, in output
+    f.write(self.buffer.encode("latin1"))
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u015f' in position 7616077: ordinal not in range(256)
+2025-03-29 18:46:56,220 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 18:49:17,511 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 18:49:17,512 - INFO - Veri dosya yollar\u0131: {'green_data': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_green_area_coordinates.xlsx', 'population': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\processed\\besiktas_district_population_processed.xlsx', 'footways': 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\data\\raw\\osm\\besiktas_pedestrian_and_cycling_network.geojson'}
+2025-03-29 18:49:30,181 - ERROR - PDF olu\u015fturma hatas\u0131: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+Traceback (most recent call last):
+  File "c:\Users\Ali Riza Ercan\Documents\GitHub\15MinGreenCity-Besiktas-IBB\analysis\src\statistical_analysis\green_space_analysis.py", line 141, in generate_pdf_report
+    pdf.image(os.path.join(project_root, 'assets', 'logo.png'), x=70, y=100, w=70)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 150, in wrapper
+    return fn(self, *args, **kwargs)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 971, in image
+    info=self._parsepng(name)
+  File "C:\Users\Ali Riza Ercan\AppData\Local\Programs\Python\Python39\lib\site-packages\fpdf\fpdf.py", line 1772, in _parsepng
+    f=open(name,'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'c:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\15MinGreenCity-Besiktas-IBB\\assets\\logo.png'
+2025-03-29 18:49:30,187 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 19:09:23,678 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 19:09:23,679 - INFO - Veri yükleme ba\u015flat\u0131l\u0131yor...
+2025-03-29 19:09:36,871 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131
+2025-03-29 21:23:28,951 - INFO - Analiz ba\u015flat\u0131l\u0131yor...
+2025-03-29 21:23:28,952 - INFO - Veri yükleme ba\u015flat\u0131l\u0131yor...
+2025-03-29 21:23:44,437 - INFO - Analiz ba\u015far\u0131yla tamamland\u0131

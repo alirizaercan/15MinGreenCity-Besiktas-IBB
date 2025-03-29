@@ -1,0 +1,5766 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "bisiklet_mikromobilite",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7188109959, 40.9987480489 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İstanbul Üniversitesi Avcılar Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "AVCILAR",
+				"X" : 28.718811,
+				"Y" : 40.998748,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9312720162, 41.025930686 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.931272,
+				"Y" : 41.025931,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9220893337, 41.0035261728 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Silivrikapı Buz Pisti Fatih",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.922089,
+				"Y" : 41.003526,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8859926291, 41.0657077801 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hidayet Türkoğlu Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAYRAMPAŞA",
+				"X" : 28.885993,
+				"Y" : 41.065708,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1878279222, 41.0215944575 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çekmeköy Spor Kompleksi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÇEKMEKÖY",
+				"X" : 29.187828,
+				"Y" : 41.021594,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3205448563, 40.9307762869 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pendik Kurtköy Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.320545,
+				"Y" : 40.930776,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.864297307, 41.0919714644 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hamza Yerlikaya Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SULTANGAZİ",
+				"X" : 28.864297,
+				"Y" : 41.091971,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1899275946, 40.8920164047 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hasan Doğan Spor Kompleksi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.189928,
+				"Y" : 40.892016,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9103964881, 41.0444798496 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bayrampaşa Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAYRAMPAŞA",
+				"X" : 28.910396,
+				"Y" : 41.04448,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1009723192, 41.1251367348 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beykoz Spor Kompleksi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "BEYKOZ",
+				"X" : 29.100972,
+				"Y" : 41.125137,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8950596493, 41.0013482862 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Zeytinburnu Çırpıcı Spor Tesisi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ZEYTİNBURNU",
+				"X" : 28.89506,
+				"Y" : 41.001348,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1244277244, 41.0216960599 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çakmak Yüzme Havuzu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.124428,
+				"Y" : 41.021696,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.281282001, 40.9286723937 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pendik Çamlık Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.281282,
+				"Y" : 40.928672,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9258100978, 41.0787400638 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yeşilpınar Kapalı Yüzme Havuzu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "EYÜPSULTAN",
+				"X" : 28.92581,
+				"Y" : 41.07874,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7854687719, 41.0547535144 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Halkalı Yüzme Havuzu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "KÜÇÜKÇEKMECE",
+				"X" : 28.785469,
+				"Y" : 41.054754,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1091818627, 40.9403066149 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.109182,
+				"Y" : 40.940307,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2451649021, 41.015731805 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenidoğan Yüzme Havuzu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SANCAKTEPE",
+				"X" : 29.245165,
+				"Y" : 41.015732,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7908223974, 40.9758695533 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Florya Spor Tesisi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.790822,
+				"Y" : 40.97587,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.160461369, 41.0116111915 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Dudullu Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.160461,
+				"Y" : 41.011611,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2567068333, 41.0139123309 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sancaktepe Sefa Tepesi Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SANCAKTEPE",
+				"X" : 29.256707,
+				"Y" : 41.013912,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2755260701, 40.9495228829 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sultanbeyli Gölet Spor Tesisleri",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SULTANBEYLİ",
+				"X" : 29.275526,
+				"Y" : 40.949523,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.87804853, 41.0529386113 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Esenler Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ESENLER",
+				"X" : 28.878049,
+				"Y" : 41.052939,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0571514401, 40.9691577492 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Gül Bahçesi Spor Kulubü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.057151,
+				"Y" : 40.969158,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8799544352, 41.0023338837 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Futbol Sahası Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAHÇELİEVLER",
+				"X" : 28.879954,
+				"Y" : 41.002334,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9525823637, 41.0055321763 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenikapı Marmaray",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.952582,
+				"Y" : 41.005532,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9926654523, 41.0640894824 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şişli - Mecidiyeköy Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.992665,
+				"Y" : 41.064089,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0240775565, 41.1182096426 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Atatürk Oto Sanayi Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.024078,
+				"Y" : 41.11821,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8024097753, 41.0723896588 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İkitelli Sanayi Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.80241,
+				"Y" : 41.07239,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8260201231, 41.0648543522 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İstoç Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.82602,
+				"Y" : 41.064854,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.797356544, 41.0811684259 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Turgut Özal Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.797357,
+				"Y" : 41.081168,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7963303556, 41.0882414593 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Siteler Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.79633,
+				"Y" : 41.088241,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7912865195, 41.097668849 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başak Konutları Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.791287,
+				"Y" : 41.097669,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8481657389, 40.9860239737 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataköy Cumhuriyet Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.848166,
+				"Y" : 40.986024,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2567964221, 41.012601564 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Sancaktepe Safa Tepesi Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SANCAKTEPE",
+				"X" : 29.256796,
+				"Y" : 41.012602,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2311142065, 41.0002397119 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sancaktepe Arif Nihat Asya Anadolu Lisesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SANCAKTEPE",
+				"X" : 29.231114,
+				"Y" : 41.00024,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2330386546, 40.9784661894 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Taha Akgül Spor Kompleksi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "SANCAKTEPE",
+				"X" : 29.233039,
+				"Y" : 40.978466,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9759650945, 41.0168131099 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü İstanbul Kitapçısı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.975965,
+				"Y" : 41.016813,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.717724805, 40.9713899453 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Avcılar İDO İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "AVCILAR",
+				"X" : 28.717725,
+				"Y" : 40.97139,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9402256672, 40.9990082591 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenikapı Bisiklet Evi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.940226,
+				"Y" : 40.999008,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0295023088, 40.9853476589 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Şevkibey Sok.",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.029502,
+				"Y" : 40.985348,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0261706365, 40.9831751467 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Moda Bostanı Girişi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.026171,
+				"Y" : 40.983175,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.02357937, 40.9829235682 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Yapı Kredi Bankası Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.023579,
+				"Y" : 40.982924,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0331819565, 40.9863430466 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Yoğurtçu Parkı Cad.",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.033182,
+				"Y" : 40.986343,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0265703456, 40.9885822145 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Nailbey Sok.",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.02657,
+				"Y" : 40.988582,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.876195489, 40.9745116918 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, Ataköy Marina Üst Geçit Altı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.876195,
+				"Y" : 40.974512,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0216340247, 40.9814615958 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Moda Parkı Girişi Otopark İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021634,
+				"Y" : 40.981462,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0266870926, 40.9849173491 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Dr. Esat Işık Cad. Moda Pet House",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.026687,
+				"Y" : 40.984917,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.025989469, 40.9857663629 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Dr. Esat Işık Cad.",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.025989,
+				"Y" : 40.985766,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0364073634, 40.9938585942 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Belediyesi Karşısı İspark İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.036407,
+				"Y" : 40.993859,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8758959005, 40.9809947001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, Gençler Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.875896,
+				"Y" : 40.980995,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0120689995, 41.0252109999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Dolmuş Durağı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.012069,
+				"Y" : 41.025211,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0250059998, 41.0332840002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Fethi Paşa Korusu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.025006,
+				"Y" : 41.033284,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0251492955, 41.0157649497 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Zeynep Kamil Hastanesi Karşısı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.025149,
+				"Y" : 41.015765,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0856360489, 41.0247148438 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, Alemdar Caddesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.085636,
+				"Y" : 41.024715,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1242908877, 41.0214424111 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, Çakmak Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.124291,
+				"Y" : 41.021442,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1053354166, 41.0247418247 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, Canpark AVM Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.105335,
+				"Y" : 41.024742,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8712929394, 40.9895428529 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, İncirli Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.871293,
+				"Y" : 40.989543,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0150881583, 41.0256430396 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Marmaray Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.015088,
+				"Y" : 41.025643,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8742414722, 40.9966275055 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, Bakırköy Metro Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.874241,
+				"Y" : 40.996628,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.155808292, 41.0000217259 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, İMES Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.155808,
+				"Y" : 41.000022,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.745579517, 40.9778474191 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Avcılar, İBB Sosyal Tesisleri Metrobüs Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "AVCILAR",
+				"X" : 28.74558,
+				"Y" : 40.977847,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9678706833, 41.0189370098 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih, Eminönü Otopark içi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.967871,
+				"Y" : 41.018937,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9690273155, 41.019198946 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih,Eminönü Marina Arkası",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.969027,
+				"Y" : 41.019199,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.992118569, 41.2436978611 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Adile Sadullah Mermerci Polis Meslek Yüksek Okulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 28.992119,
+				"Y" : 41.243698,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8849080765, 41.0650024198 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Hidayet Türkoğlu Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAYRAMPAŞA",
+				"X" : 28.884908,
+				"Y" : 41.065002,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0979158886, 40.9503717669 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maltepe, Bostancı Metro İstasyonu Sahil kısmı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.097916,
+				"Y" : 40.950372,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0302145028, 41.0000998135 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ayrılıkçeşmesi Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.030215,
+				"Y" : 41.0001,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0597547925, 40.9981482318 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ünalan Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.059755,
+				"Y" : 40.998148,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0707480433, 40.9939132554 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.070748,
+				"Y" : 40.993913,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0444486287, 41.0023822154 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Acıbadem Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.044449,
+				"Y" : 41.002382,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2381788662, 40.8889273396 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pendik Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.238179,
+				"Y" : 40.888927,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2487146822, 40.8820709254 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tavşantepe Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.248715,
+				"Y" : 40.882071,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1786549076, 40.9162064582 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hastane Adliye Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.178655,
+				"Y" : 40.916206,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1924351788, 40.9132113245 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Soğanlık Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.192435,
+				"Y" : 40.913211,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2112306436, 40.9066847525 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kartal Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.211231,
+				"Y" : 40.906685,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2267012124, 40.8969365424 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yakacık Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.226701,
+				"Y" : 40.896937,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.166240659, 40.9208727949 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Esenkent Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.166241,
+				"Y" : 40.920873,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1221104302, 40.9488728124 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Küçükyalı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.12211,
+				"Y" : 40.948873,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.139588334, 40.9357532902 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maltepe Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.139588,
+				"Y" : 40.935753,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1469204193, 40.9299325968 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Huzurevi Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.14692,
+				"Y" : 40.929933,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1546641975, 40.9237475449 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Gülsuyu Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.154664,
+				"Y" : 40.923748,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1049224113, 40.964679298 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bostancı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.104922,
+				"Y" : 40.964679,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0996262112, 40.9751577736 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kozyatağı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.099626,
+				"Y" : 40.975158,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0905434542, 40.9846581061 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenisahra Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.090543,
+				"Y" : 40.984658,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0132579623, 41.0253187853 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.013258,
+				"Y" : 41.025319,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0288795807, 41.028121974 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fıstıkağacı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.02888,
+				"Y" : 41.028122,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0364576209, 41.0216208863 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bağlarbaşı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.036458,
+				"Y" : 41.021621,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0621306125, 41.0219574514 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kısıklı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.062131,
+				"Y" : 41.021957,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0763482426, 41.0162227611 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bulgurlu Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.076348,
+				"Y" : 41.016223,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0843947921, 41.0244698783 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.084395,
+				"Y" : 41.02447,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0971451153, 41.0258224211 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çarşı Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.097145,
+				"Y" : 41.025822,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1089355557, 41.0239829879 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yamanevler Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.108936,
+				"Y" : 41.023983,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1184800842, 41.0213546124 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çakmak Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.11848,
+				"Y" : 41.021355,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1280127805, 40.9655177745 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maltepe Fındıklı İmam Hatip Ortaokulu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.128013,
+				"Y" : 40.965518,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.841473381, 40.989533313 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hasan Polatkan Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.841473,
+				"Y" : 40.989533,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8198134348, 40.9606129795 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şehit Pilot Muzaffer Erdönmez Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.819813,
+				"Y" : 40.960613,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2744715987, 40.9500862991 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Sultanbeyli Gölet Spor Tesisi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SULTANBEYLİ",
+				"X" : 29.274472,
+				"Y" : 40.950086,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8344300114, 40.9626463802 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yeşilköy Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.83443,
+				"Y" : 40.962646,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8313439783, 40.9609133087 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Nüket Ercan Mesleki ve Teknik Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.831344,
+				"Y" : 40.960913,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8570453717, 40.981306713 ]
+			},
+			"properties" : {
+				"Park_Alani" : "60. Yıl Ataköy Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.857045,
+				"Y" : 40.981307,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8473558693, 40.9894339795 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataköy Atatürk Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.847356,
+				"Y" : 40.989434,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.597626147, 40.9961233764 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Gürpınar Sahil Parkı (Piri Reis Parkı)",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.597626,
+				"Y" : 40.996123,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0884663544, 40.9539035512 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Bostancı Sahil Spor Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.088466,
+				"Y" : 40.953904,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2624037531, 40.8886417085 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fevzi Çakmak Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.262404,
+				"Y" : 40.888642,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2962830984, 40.9101335948 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kurtköy Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.296283,
+				"Y" : 40.910134,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2751192864, 40.9037407838 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yayalar Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.275119,
+				"Y" : 40.903741,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2990435632, 40.8330402191 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tuzla Kafkale Spor Kompleksi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "TUZLA",
+				"X" : 29.299044,
+				"Y" : 40.83304,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9762074469, 41.0148282061 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sirkeci Tren Garı Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.976207,
+				"Y" : 41.014828,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0283244332, 40.9904972937 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy, Bestekar Dilhayat Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.028324,
+				"Y" : 40.990497,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9787814175, 41.010724657 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Gülhane Parkı Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.978781,
+				"Y" : 41.010725,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.973878368, 41.010232256 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sirkeci, Nuru Osmaniye Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.973878,
+				"Y" : 41.010232,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.021117329, 40.9813754244 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy, Moda Parkı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021117,
+				"Y" : 40.981375,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9683440124, 41.0087054555 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih, Yeniçeriler Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.968344,
+				"Y" : 41.008705,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0327279907, 40.991922238 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy, Elmalı Çeşme Sokak - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.032728,
+				"Y" : 40.991922,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0313321444, 40.9934394476 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy, Elmalı Çeşme Sokak - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.031332,
+				"Y" : 40.993439,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9540607015, 41.0144891491 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Saraçhane Arkeoloji Parkı Yanı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.954061,
+				"Y" : 41.014489,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9539555616, 41.0150529933 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih Anıt Parkı Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.953956,
+				"Y" : 41.015053,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.130651007, 41.0194423071 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ihlamurkaya Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.130651,
+				"Y" : 41.019442,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1408452343, 41.016383461 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Altınşehir Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.140845,
+				"Y" : 41.016383,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.15131822, 41.0158300017 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İmam Hatip Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.151318,
+				"Y" : 41.01583,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1622290741, 41.0151321285 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Dudullu Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.162229,
+				"Y" : 41.015132,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1794779707, 41.0159066701 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Necip Fazıl Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.179478,
+				"Y" : 41.015907,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1881596545, 41.0145695802 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çekmeköy Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÇEKMEKÖY",
+				"X" : 29.18816,
+				"Y" : 41.01457,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0425454716, 40.9954144091 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Müze Gazhane",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.042545,
+				"Y" : 40.995414,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9123741637, 41.1550520976 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kemerburgaz Şehit Er Sinan Şen Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "EYÜPSULTAN",
+				"X" : 28.912374,
+				"Y" : 41.155052,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0302664709, 41.1397713926 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hacıosman Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.030266,
+				"Y" : 41.139771,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0096153317, 41.2321851815 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Anafartalar Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.009615,
+				"Y" : 41.232185,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8561754626, 41.034514697 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bağcılar Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.856175,
+				"Y" : 41.034515,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0478299405, 41.0219442349 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Altunizade Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.04783,
+				"Y" : 41.021944,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8846983263, 40.9989128642 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Bakırköy Ek Hizmet Binası",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.884698,
+				"Y" : 40.998913,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9945689999, 41.0660139997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Metro Çıkışı - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994569,
+				"Y" : 41.066014,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0500110004, 40.9762589998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Selamiçeşme - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.050011,
+				"Y" : 40.976259,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.994516, 41.0660140001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Metro Çıkışı - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994516,
+				"Y" : 41.066014,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0817600006, 40.9742490003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "19 Mayıs Mahallesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.08176,
+				"Y" : 40.974249,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0763330005, 40.9765249998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Arsan Sokağı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.076333,
+				"Y" : 40.976525,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0428980005, 40.9802880004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kızıltoprak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.042898,
+				"Y" : 40.980288,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0716570004, 40.968969 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Taş Mektep",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.071657,
+				"Y" : 40.968969,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0737060004, 40.971839 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ethem Efendi Caddesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.073706,
+				"Y" : 40.971839,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0476870001, 40.9776600001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Feneryolu Vakıf Bank",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.047687,
+				"Y" : 40.97766,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9603130006, 41.0096789999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İstanbul Üniversitesi Edebiyat Fakültesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.960313,
+				"Y" : 41.009679,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0494670001, 40.9853099998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Marmara Üniversitesi Göztepe Kampüsü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.049467,
+				"Y" : 40.98531,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9750409997, 41.0171969997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Kadıköy İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.975041,
+				"Y" : 41.017197,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9958010005, 41.0667850002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Meydanı - 3",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.995801,
+				"Y" : 41.066785,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0836299998, 40.9717869995 ]
+			},
+			"properties" : {
+				"Park_Alani" : "19 Mayıs Mahallesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.08363,
+				"Y" : 40.971787,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0486249998, 40.9767980001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Selamiçeşme - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.048625,
+				"Y" : 40.976798,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9958999996, 41.0664550003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Meydanı - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.9959,
+				"Y" : 41.066455,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0793079995, 40.9770469999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sahrayıcedit Mahallesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.079308,
+				"Y" : 40.977047,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0878010005, 40.9570030001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çatalçeşme",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.087801,
+				"Y" : 40.957003,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9949330002, 41.0664529997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Meydanı - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994933,
+				"Y" : 41.066453,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9656489996, 41.0094469999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beyazıt Meydanı - 3",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.965649,
+				"Y" : 41.009447,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9944290004, 41.066561 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Viyadük Altı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994429,
+				"Y" : 41.066561,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0749480004, 40.9737179998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Erenköy Marmaray Köprüsü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.074948,
+				"Y" : 40.973718,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0841229998, 40.9705950004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şemsettin Günaltay Caddesi - 3",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.084123,
+				"Y" : 40.970595,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0447719994, 40.9877259996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eğitim Mahallesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.044772,
+				"Y" : 40.987726,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9725160002, 41.0173029999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Meydanı - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.972516,
+				"Y" : 41.017303,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0847350003, 40.9694129996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kazasker",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.084735,
+				"Y" : 40.969413,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0729250004, 40.9805960004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Ziraat Bankası",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.072925,
+				"Y" : 40.980596,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0597318269, 40.9840171494 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Merdivenköy Mahallesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.059732,
+				"Y" : 40.984017,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0913299998, 40.9553219998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Taşlıçeşme",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.09133,
+				"Y" : 40.955322,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0626559997, 40.9737199999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tütüncü Mehmet Efendi Caddesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.062656,
+				"Y" : 40.97372,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9716230005, 41.0175130005 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Meydanı - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.971623,
+				"Y" : 41.017513,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9931349997, 41.066543 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Metrobüs - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.993135,
+				"Y" : 41.066543,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9848140001, 41.0678129997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Abide-i Hürriyet Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.984814,
+				"Y" : 41.067813,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0492423399, 41.1286068282 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Metin Oktay Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.049242,
+				"Y" : 41.128607,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9390029569, 41.0810701372 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tevfik Aydeniz Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "EYÜPSULTAN",
+				"X" : 28.939003,
+				"Y" : 41.08107,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7672340276, 41.0794660403 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Olimpiyat Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.767234,
+				"Y" : 41.079466,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7920000903, 40.9971270528 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sefaköy Kapalı Yüzme Havuzu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "KÜÇÜKÇEKMECE",
+				"X" : 28.792,
+				"Y" : 40.997127,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8504610944, 40.9833411628 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy Gazi Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.850461,
+				"Y" : 40.983341,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0729280002, 40.9709090001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ethem Efendi Caddesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.072928,
+				"Y" : 40.970909,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9704989996, 41.018498 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Turyol Vapur İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.970499,
+				"Y" : 41.018498,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9765390001, 41.0155620999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sirkeci Parkı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.976539,
+				"Y" : 41.015562,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0795829996, 40.9760489996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tüccarbaşı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.079583,
+				"Y" : 40.976049,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0881189995, 40.9646640002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şemsettin Günaltay Caddesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.088119,
+				"Y" : 40.964664,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0759529997, 40.9627020003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şaşkınbakkal",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.075953,
+				"Y" : 40.962702,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9661440001, 41.0092039998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beyazıt Meydanı - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.966144,
+				"Y" : 41.009204,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9935040001, 41.0649789996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Büyükdere Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.993504,
+				"Y" : 41.064979,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0559609997, 40.9846620003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Prof. Dr. Süleyman Yalçın Şehir Hastanesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.055961,
+				"Y" : 40.984662,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9826130002, 41.0695160002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çağlayan Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.982613,
+				"Y" : 41.069516,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0819487002, 40.9595860999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Suadiye Mahallesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.081949,
+				"Y" : 40.959586,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0796020001, 40.9607840003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pembe Gül Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.079602,
+				"Y" : 40.960784,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9643810003, 41.02025 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Haliç Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.964381,
+				"Y" : 41.02025,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.080868, 40.9749489998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "19 Mayıs Mahallesi - 3",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.080868,
+				"Y" : 40.974949,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0916049997, 40.9620559999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenifidan Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.091605,
+				"Y" : 40.962056,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9768695914, 41.0164870722 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İDO Sirkeci Feribot İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.97687,
+				"Y" : 41.016487,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9595029999, 41.0124300002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Vezneciler Metro İstasyonu Çıkışı - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.959503,
+				"Y" : 41.01243,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9709690006, 41.0176530002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Meydanı - 3",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.970969,
+				"Y" : 41.017653,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0409869996, 40.9897169996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "2. Hat Boyu Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.040987,
+				"Y" : 40.989717,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0433629995, 40.9884527 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eğitim Mahallesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.043363,
+				"Y" : 40.988453,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0643920005, 40.9827220002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Mahallesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.064392,
+				"Y" : 40.982722,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0637535005, 40.9695215004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şimşek Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.063754,
+				"Y" : 40.969522,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0871679997, 40.9665049999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ayşe Kadın",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.087168,
+				"Y" : 40.966505,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0422410001, 40.9804539999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Feneryolu PTT",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.042241,
+				"Y" : 40.980454,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0721839997, 40.9809969998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fahrettim Kerim Gökay Caddesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.072184,
+				"Y" : 40.980997,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0715689995, 40.9653300001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Zincirli Köşk Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.071569,
+				"Y" : 40.96533,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9912200014, 41.0666429874 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İETT Mecidiyeköy Peron Amirliği",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.99122,
+				"Y" : 41.066643,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0679370004, 40.9821130001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fahrettin Kerim Gökay Vakfı Sağlık Tesisi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.067937,
+				"Y" : 40.982113,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0718520003, 40.9691680004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ethem Efendi Caddesi - 3",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.071852,
+				"Y" : 40.969168,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9661030002, 41.0092060002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beyazıt Meydanı - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.966103,
+				"Y" : 41.009206,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2488374197, 40.882088389 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tavşantepe Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.248837,
+				"Y" : 40.882088,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8688047383, 41.0325736745 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bağcılar Merkez Mahallesi Bölge Parkı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.868805,
+				"Y" : 41.032574,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7866724573, 41.0746687736 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ziya Gökalp Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.786672,
+				"Y" : 41.074669,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0134548973, 41.0772911367 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Levent Metro İstasyonu (Metro City Avm)",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 29.013455,
+				"Y" : 41.077291,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8015640879, 41.1075652971 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başakşehir Metrokent Metro İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.801564,
+				"Y" : 41.107565,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0302664709, 41.1397713926 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hacıosman Metro İstasyonu Dışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.030266,
+				"Y" : 41.139771,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.022022099, 40.9904179813 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Metro İstasyonu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.022022,
+				"Y" : 40.990418,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9695180001, 41.017779 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Meydanı - 4",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.969518,
+				"Y" : 41.017779,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.063467, 40.9829049996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Mahallesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.063467,
+				"Y" : 40.982905,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9620049998, 41.0126379999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İstanbul Üniversitesi İktisat Fakültesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.962005,
+				"Y" : 41.012638,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.069531, 40.9815819996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe İETT Durağı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.069531,
+				"Y" : 40.981582,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0677030001, 40.9671460004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Caddebostan İskele Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.067703,
+				"Y" : 40.967146,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0547399999, 40.9845159996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Sosyal Güvenlik Merkezi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.05474,
+				"Y" : 40.984516,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0639399999, 40.9751970004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Tütüncü Mehmet Efendi Caddesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.06394,
+				"Y" : 40.975197,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0541250004, 40.9743819997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çiftehavuzlar",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.054125,
+				"Y" : 40.974382,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6266119313, 41.0007533822 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Toki Mehmet Akif Ersoy Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.626612,
+				"Y" : 41.000753,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6558846639, 41.0047933834 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü İMKB Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.655885,
+				"Y" : 41.004793,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.533650611, 41.0045993292 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çarmıklı Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BÜYÜKÇEKMECE",
+				"X" : 28.533651,
+				"Y" : 41.004599,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6422090188, 41.004552633 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Koç Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.642209,
+				"Y" : 41.004553,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0270956383, 41.0485010875 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ortaköy",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.027096,
+				"Y" : 41.048501,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7212910826, 40.9708986874 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Avcılar İskele Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "AVCILAR",
+				"X" : 28.721291,
+				"Y" : 40.970899,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6241016342, 41.0915603854 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yiğittürk Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BÜYÜKÇEKMECE",
+				"X" : 28.624102,
+				"Y" : 41.09156,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6295002625, 41.0052414551 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pınarkule Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.6295,
+				"Y" : 41.005241,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6487442354, 40.9863327414 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Volvo Kavşağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.648744,
+				"Y" : 40.986333,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6458319557, 41.0104161604 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Büyükşehir Yücel Akkaş Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.645832,
+				"Y" : 41.010416,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6457591184, 41.0032037725 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Vali Muammer Güler Sosyal Bilimler Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.645759,
+				"Y" : 41.003204,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6327685385, 41.0076413357 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Gürpınar İMKB Mesleki ve Teknik Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.632769,
+				"Y" : 41.007641,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8129773658, 40.9619315623 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Florya Engelliler Kampı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.812977,
+				"Y" : 40.961932,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.636460698, 41.0097205687 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Dr. Ayla Savaş Ortaokulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.636461,
+				"Y" : 41.009721,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8774170968, 40.9732017047 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İDO İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.877417,
+				"Y" : 40.973202,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0162284861, 41.0446724669 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yıldız Parkı İSPARK",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.016228,
+				"Y" : 41.044672,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0258999722, 41.0501486241 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Zübeyde Hanım Mesleki ve Teknik Anadolu Lisesi Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.0259,
+				"Y" : 41.050149,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7677280005, 41.1064470001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başakşehir Toplu Konutlar Metro İstasyonu Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.767728,
+				"Y" : 41.106447,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7767960001, 41.1030649998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başakşehir Çam ve Sakura Şehir Hastanesi Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.776796,
+				"Y" : 41.103065,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.790379, 41.1142469998 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başakşehir Onurkent Metro İstasyonu Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.790379,
+				"Y" : 41.114247,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.765792626, 41.1181825265 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Başakşehir Kayaşehir Merkez Metro İstasyonu Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.765793,
+				"Y" : 41.118183,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1452078451, 40.9189599571 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Orhangazi Anadolu Lisesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.145208,
+				"Y" : 40.91896,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6422884388, 41.0110285633 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü Atatürk Bulvarı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.642288,
+				"Y" : 41.011029,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9593796976, 41.0117688936 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Vezneciler Metro İstasyonu Çıkışı - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.95938,
+				"Y" : 41.011769,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0207987305, 41.1080929067 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İTÜ Ayazağa Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.020799,
+				"Y" : 41.108093,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8848742864, 41.0740906035 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İSKİ Bayrampaşa Şube Müdürlüğü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAYRAMPAŞA",
+				"X" : 28.884874,
+				"Y" : 41.074091,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1893765429, 40.8977524507 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yüksel İlhan Alanyalı Fen Lisesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.189377,
+				"Y" : 40.897752,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0035907898, 41.0435687899 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beşiktaş İlçesi, Ihlamurdere Caddesi - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.003591,
+				"Y" : 41.043569,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9733006431, 41.0795639497 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kağıthane Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "KAĞITHANE",
+				"X" : 28.973301,
+				"Y" : 41.079564,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0312942497, 40.9934704259 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy, Elmalı Çeşme Sokak - 3",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.031294,
+				"Y" : 40.99347,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.782135124, 40.984991026 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Koru Florya Sitesi Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.782135,
+				"Y" : 40.984991,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9671168492, 41.0090455875 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beyazıt Meydanı - 4",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.967117,
+				"Y" : 41.009046,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0309594898, 40.9855045308 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Soner Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.030959,
+				"Y" : 40.985505,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0039982262, 41.0431730012 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beşiktaş İlçesi, Ihlamurdere Caddesi - 3",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.003998,
+				"Y" : 41.043173,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0041581578, 41.0430075079 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beşiktaş İlçesi, Ihlamurdere Caddesi - 2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.004158,
+				"Y" : 41.043008,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.073695, 40.9805050003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe Mahallesi - 3",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.073695,
+				"Y" : 40.980505,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0834670002, 40.9589180002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Suadiye Mahallesi - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.083467,
+				"Y" : 40.958918,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1532580001, 40.9749650003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Yeditepe Üniversitesi Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.153258,
+				"Y" : 40.974965,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1256929996, 40.9793390004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Penguen Kitabevi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.125693,
+				"Y" : 40.979339,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0786499995, 40.9918979999 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Tamirhane",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.07865,
+				"Y" : 40.991898,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1560657342, 41.0008714934 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, İmes Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.156066,
+				"Y" : 41.000871,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1559323049, 41.0002725962 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ümraniye İlçesi, İmes Metro Asansör Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.155932,
+				"Y" : 41.000273,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0966177956, 40.9526691689 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maltepe İlçesi Bostancı Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.096618,
+				"Y" : 40.952669,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0933842972, 40.9605174575 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi Emin Ali Paşa Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.093384,
+				"Y" : 40.960517,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.125947996, 40.9787920393 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, İçerenköy Metro Çıkışı 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.125948,
+				"Y" : 40.978792,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1535482992, 40.9747268866 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Yeditepe Üniversitesi Önü 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.153548,
+				"Y" : 40.974727,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0857650281, 40.9933262849 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Dumankaya İkon Bisiklet Yolu",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.085765,
+				"Y" : 40.993326,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0149294129, 41.0263343191 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar Marmaray Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.014929,
+				"Y" : 41.026334,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9608444201, 41.0113447783 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Fatih İlçesi İstanbul Üniversitesi Su Ürünleri Fakültesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.960844,
+				"Y" : 41.011345,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1113576413, 40.9787656799 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi Küçükbakkalköy Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.111358,
+				"Y" : 40.978766,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1267022171, 40.979569414 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, İçerenköy Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.126702,
+				"Y" : 40.979569,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0933518058, 40.9606614115 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi Emin Ali Paşa Metro Çıkışı 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.093352,
+				"Y" : 40.960661,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0799061379, 41.0198396699 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Çağrıbey Anadolu Lisesi İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.079906,
+				"Y" : 41.01984,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0973186221, 41.0259432808 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çarşı Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.097319,
+				"Y" : 41.025943,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1923983239, 40.9132883838 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Soğanlık Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.192398,
+				"Y" : 40.913288,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8424909989, 41.0323712369 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kirazlı Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.842491,
+				"Y" : 41.032371,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1623536613, 41.0152668658 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Dudullu Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜMRANİYE",
+				"X" : 29.162354,
+				"Y" : 41.015267,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8754036789, 40.9966103583 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.875404,
+				"Y" : 40.99661,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8305389157, 41.0548941972 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mahmutbey Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.830539,
+				"Y" : 41.054894,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.189207926, 41.0145632479 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Çekmeköy Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÇEKMEKÖY",
+				"X" : 29.189208,
+				"Y" : 41.014563,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0903877924, 40.9847287608 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenisahra Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.090388,
+				"Y" : 40.984729,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8015640879, 41.1075652971 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Metrokent Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.801564,
+				"Y" : 41.107565,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0564462495, 40.9981126344 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ünalan Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.056446,
+				"Y" : 40.998113,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0996930943, 40.9752225 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kozyatağı Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.099693,
+				"Y" : 40.975223,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9496326544, 41.0791146521 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Alibeyköy Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "EYÜPSULTAN",
+				"X" : 28.949633,
+				"Y" : 41.079115,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9598347809, 41.0122648278 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Vezneciler Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.959835,
+				"Y" : 41.012265,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.802129563, 41.0723497502 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İkitelli Sanayi Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.80213,
+				"Y" : 41.07235,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1395599592, 40.9358193379 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maltepe Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "MALTEPE",
+				"X" : 29.13956,
+				"Y" : 40.935819,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7662501497, 41.0794640646 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Olimpiyat Metro İstasyonu İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAŞAKŞEHİR",
+				"X" : 28.76625,
+				"Y" : 41.079464,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2385281454, 40.8887242519 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Pendik Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "PENDİK",
+				"X" : 29.238528,
+				"Y" : 40.888724,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.178771727, 40.9161698138 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hastane Adliye Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.178772,
+				"Y" : 40.91617,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0249608431, 40.9797441955 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Moda İskelesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.024961,
+				"Y" : 40.979744,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9713631788, 41.0386798526 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İBB Kasımpaşa Ek Hizmet Binası Otoparkı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.971363,
+				"Y" : 41.03868,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1927304397, 40.9151352056 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kartal, Burak Bora Anadolu Lisesi İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.19273,
+				"Y" : 40.915135,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1926633797, 40.9156776961 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kartal, Burak Bora Anadolu Lisesi İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.192663,
+				"Y" : 40.915678,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9697969874, 41.018394051 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eminönü Tramvay Arkası",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.969797,
+				"Y" : 41.018394,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0810027141, 40.9955865549 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Ataşehir İlçesi, Mustafa Saffet Kültür Merkezi Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ATAŞEHİR",
+				"X" : 29.081003,
+				"Y" : 40.995587,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1676030005, 40.8949120002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kartal Kordonboyu Sahil - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.167603,
+				"Y" : 40.894912,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0901184763, 40.9528181298 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bostancı İSPARK - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.090118,
+				"Y" : 40.952818,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1053503103, 40.9645784145 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bostancı Metro İstasyonu İçi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.10535,
+				"Y" : 40.964578,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.089850581, 40.9528076635 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bostancı İSPARK - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.089851,
+				"Y" : 40.952808,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9924090006, 41.0665720004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Mecidiyeköy Metrobüs - 1",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.992409,
+				"Y" : 41.066572,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0857430002, 40.9680509997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şemsettin Günaltay Caddesi - 2",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.085743,
+				"Y" : 40.968051,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1323188119, 40.8746339476 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Belediye Yakını",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.132319,
+				"Y" : 40.874634,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1259796162, 40.8730641339 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kahve Dünyası Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.12598,
+				"Y" : 40.873064,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1381443395, 40.8714705648 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Deniz Kulübü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.138144,
+				"Y" : 40.871471,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1353221761, 40.8740801762 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sahil Su Kooperatifi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.135322,
+				"Y" : 40.87408,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1274310424, 40.8735114923 ]
+			},
+			"properties" : {
+				"Park_Alani" : "23 Nisan Caddesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.127431,
+				"Y" : 40.873511,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1195777825, 40.8578431218 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Lunapark",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.119578,
+				"Y" : 40.857843,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1243924126, 40.8533865484 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Katolik Mezarlığı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.124392,
+				"Y" : 40.853387,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1258190057, 40.8482725112 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beltur",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ADALAR",
+				"X" : 29.125819,
+				"Y" : 40.848273,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.993517208, 41.0519317045 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şakayık Sokak",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.993517,
+				"Y" : 41.051932,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9941788844, 41.0539109916 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Vali Konağı Caddesi2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994179,
+				"Y" : 41.053911,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9917827699, 41.0514908398 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Teşvikiye Caddesi2",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.991783,
+				"Y" : 41.051491,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9929591672, 41.0504795869 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Teşvikiye Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.992959,
+				"Y" : 41.05048,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9937429019, 41.0525625049 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Orhan Ersek Sokak",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.993743,
+				"Y" : 41.052563,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9938263762, 41.0494143561 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Teşvikiye Camii",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.993826,
+				"Y" : 41.049414,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9953812364, 41.0534107609 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Amerikan Hastanesi Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.995381,
+				"Y" : 41.053411,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0268979999, 40.9874219996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sakızgülü Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.026898,
+				"Y" : 40.987422,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0337830001, 40.9917210003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İrfan Bey Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.033783,
+				"Y" : 40.991721,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0239379994, 40.9836379996 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy MTAL",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.023938,
+				"Y" : 40.983638,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1624360004, 40.8974960004 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kartal Kordonboyu Sahil - 1",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KARTAL",
+				"X" : 29.162436,
+				"Y" : 40.897496,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0310499634, 40.9936427504 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Halitağa Caddesi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.03105,
+				"Y" : 40.993643,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.021794443, 40.9909873252 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, İspark Cebi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021794,
+				"Y" : 40.990987,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0343805694, 40.9922669124 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Derici Zeynel Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.034381,
+				"Y" : 40.992267,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0212539667, 40.9805817637 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Moda Parkı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021254,
+				"Y" : 40.980582,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0329340893, 40.9909976624 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Tulumbacı Asım Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.032934,
+				"Y" : 40.990998,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0244397087, 40.9827120554 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Moda Bostanı Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.02444,
+				"Y" : 40.982712,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0268855455, 40.9842619752 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İlçesi, Şair Nefi Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.026886,
+				"Y" : 40.984262,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.4698948558, 41.1878023221 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şile Engelliler Kampı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİLE",
+				"X" : 29.469895,
+				"Y" : 41.187802,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0550616531, 41.0812830031 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Aşiyan Füniküler",
+				"Bolge" : "Avrupa",
+				"Ilce" : "SARIYER",
+				"X" : 29.055062,
+				"Y" : 41.081283,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8741487226, 40.9897179688 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Sabri Çalışkan Anadolu Lisesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.874149,
+				"Y" : 40.989718,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9877849883, 41.0507083734 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Osmanbey Metro Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.987785,
+				"Y" : 41.050708,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0099797232, 41.0554824021 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Merdiven Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.00998,
+				"Y" : 41.055482,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0071485258, 41.0412239673 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beşiktaş Vapur İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.007149,
+				"Y" : 41.041224,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.000360401, 41.0422921313 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şairler Sofrası Parkı Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.00036,
+				"Y" : 41.042292,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9743118487, 41.0227762603 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Karaköy Meydan",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.974312,
+				"Y" : 41.022776,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0066962429, 41.0428595307 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hasfırın Caddesi İett ve Büfe Yakını",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.006696,
+				"Y" : 41.04286,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0098777686, 41.05458184 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Asansör Yakını",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.009878,
+				"Y" : 41.054582,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0080292432, 41.0427687743 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Eski Yıldız Caddesi Bahçeşehir Koleji Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.008029,
+				"Y" : 41.042769,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0052091717, 41.0416491335 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Deniz Müzesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.005209,
+				"Y" : 41.041649,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9745802873, 41.0228603648 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Arap Cami Tabelası Büfe Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.97458,
+				"Y" : 41.02286,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9879868921, 41.0292637313 ]
+			},
+			"properties" : {
+				"Park_Alani" : "İsbike Yanı Sgk Karşısı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.987987,
+				"Y" : 41.029264,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9913599895, 41.0484516991 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Darülbedai Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.99136,
+				"Y" : 41.048452,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9868118429, 41.0578515146 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Halaskargazi Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.986812,
+				"Y" : 41.057852,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9873252086, 41.0525347498 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yaya Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.987325,
+				"Y" : 41.052535,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9752564143, 41.0224201359 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Karaköy Tramvay Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.975256,
+				"Y" : 41.02242,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9871179748, 41.0538469053 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Halaskargazi Metro Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.987118,
+				"Y" : 41.053847,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6390284587, 41.0068488862 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü, Cahit Zarifoğlu Anadolu Lisesi Karşısı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.639028,
+				"Y" : 41.006849,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9875803903, 41.0608610185 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şişli Meydan",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.98758,
+				"Y" : 41.060861,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.976579498, 41.0217885965 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Karaköy Vapur İskelesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYOĞLU",
+				"X" : 28.97658,
+				"Y" : 41.021789,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9942923653, 41.0466375846 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Maçka",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.994292,
+				"Y" : 41.046638,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9925438732, 41.0646198242 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Büyükdere Caddesi Cevahir karşısı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "ŞİŞLİ",
+				"X" : 28.992544,
+				"Y" : 41.06462,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6573605463, 41.0090456226 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü, Marmarapark Metrobüs Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.657361,
+				"Y" : 41.009046,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.64283469, 41.0126541346 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü, Atatürk Bulvarı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.642835,
+				"Y" : 41.012654,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6408430002, 41.0153999997 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Beylikdüzü, Cumhuriyet Mahallesi Metrobüs Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.640843,
+				"Y" : 41.0154,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0599922249, 40.9713193768 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Göztepe 60. Yıl Parkı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.059992,
+				"Y" : 40.971319,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0421078339, 41.0664340007 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Arnavutköy İskele Yakını",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.042108,
+				"Y" : 41.066434,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.021665678, 40.990787693 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İspark Cebi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021666,
+				"Y" : 40.990788,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0240891813, 40.9947404287 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Otobüs Peronu Arkası",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.024089,
+				"Y" : 40.99474,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0209989746, 40.9910975237 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Metro İstasyonu Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.020999,
+				"Y" : 40.991098,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0224919773, 40.9814143459 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Ferit Tek Sokak",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.022492,
+				"Y" : 40.981414,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0506993812, 41.079936576 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Boğaziçi Üniversitesi Otobüs Durağı Arkası",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEŞİKTAŞ",
+				"X" : 29.050699,
+				"Y" : 41.079937,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0190636084, 40.990704009 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İskele Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.019064,
+				"Y" : 40.990704,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0240390551, 40.9944992574 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Rıhtım",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.024039,
+				"Y" : 40.994499,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0233327015, 40.990393885 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy PTT Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.023333,
+				"Y" : 40.990394,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0214217069, 40.9909626012 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy Zabıta Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021422,
+				"Y" : 40.990963,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0217855155, 40.9894706382 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Kadıköy İspark Cebi",
+				"Bolge" : "Anadolu",
+				"Ilce" : "KADIKÖY",
+				"X" : 29.021786,
+				"Y" : 40.989471,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0621799996, 41.0223780001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Kısıklı Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.06218,
+				"Y" : 41.022378,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7966830002, 40.967633 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, Florya Akvaryum Marmaray Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.796683,
+				"Y" : 40.967633,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8729080002, 40.9974580001 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, İncirli Metrobüs",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.872908,
+				"Y" : 40.997458,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0118326059, 41.025881571 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Mihrimah Sultan Cami Önü",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 41.025882,
+				"Y" : 41.025882,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0137476741, 41.0255751564 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Üsküdar Metro Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.013748,
+				"Y" : 41.025575,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8700097006, 40.9942330002 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, İncirli Caddesi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.87001,
+				"Y" : 40.994233,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0144839994, 41.026273 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Üsküdar İlçesi, Marmaray Çıkışı",
+				"Bolge" : "Anadolu",
+				"Ilce" : "ÜSKÜDAR",
+				"X" : 29.014484,
+				"Y" : 41.026273,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8246210006, 40.9629630003 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy İlçesi, Yeşilköy Marmaray İstasyonu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.824621,
+				"Y" : 40.962963,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8706626979, 40.9803326062 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakrköy İlçesi, Marmaray Çıkışı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.870663,
+				"Y" : 40.980333,
+				"Park_Tipi" : "Mikromobilite Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6318608912, 41.0061749515 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Cami Önü",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.631861,
+				"Y" : 41.006175,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6426131947, 41.0049104289 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Koç Ortaokulu Yanı Otopark İçi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.642613,
+				"Y" : 41.00491,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.6684808679, 40.9836604349 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Cemalettin Tınaztepe Orta Okulu",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BEYLİKDÜZÜ",
+				"X" : 28.668481,
+				"Y" : 40.98366,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7690324451, 40.9865858487 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Küçükçekmece Metrobüs",
+				"Bolge" : "Avrupa",
+				"Ilce" : "KÜÇÜKÇEKMECE",
+				"X" : 28.769032,
+				"Y" : 40.986586,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7874691112, 40.9730941863 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy Marmaray",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.787469,
+				"Y" : 40.973094,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8457159184, 40.9911675568 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy Metrobüs",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.845716,
+				"Y" : 40.991168,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8485846738, 40.9922452485 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Şirinevler Minibüs Durağı",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAHÇELİEVLER",
+				"X" : 28.848585,
+				"Y" : 40.992245,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8561254717, 40.9804805098 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bakırköy Marmaray",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.856125,
+				"Y" : 40.980481,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8643314966, 40.9951036478 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bahçelievler Metrobüs",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAKIRKÖY",
+				"X" : 28.864332,
+				"Y" : 40.995104,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8637732046, 40.995713839 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bahçelievler Metrobüs",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAHÇELİEVLER",
+				"X" : 28.863773,
+				"Y" : 40.995714,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8418617856, 41.0310248569 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bağcılar Otopark Yanı Yeşil Alan",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.841862,
+				"Y" : 41.031025,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8428904367, 41.0314287591 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Bağcılar Otopark",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAĞCILAR",
+				"X" : 28.84289,
+				"Y" : 41.031429,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8872698896, 41.0647788927 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Hidayet Türkoğlu Spor Kompleksi",
+				"Bolge" : "Avrupa",
+				"Ilce" : "BAYRAMPAŞA",
+				"X" : 28.88727,
+				"Y" : 41.064779,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9430229937, 41.0002214488 ]
+			},
+			"properties" : {
+				"Park_Alani" : "Yenikapı Sahil",
+				"Bolge" : "Avrupa",
+				"Ilce" : "FATİH",
+				"X" : 28.943023,
+				"Y" : 41.000221,
+				"Park_Tipi" : "Bisiklet Park Alanı"
+			}
+		}
+	]
+}
